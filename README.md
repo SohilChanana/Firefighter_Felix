@@ -1,5 +1,5 @@
 # Firefighter_Felix
-Final Project for CSCB58 in Assembly
+Platformer made in MIPS Assembly
 ## Created by
 Sohil Chanana
 ## Date
